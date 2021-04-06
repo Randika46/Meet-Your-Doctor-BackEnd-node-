@@ -1,0 +1,1 @@
+Location for uploaded images.
